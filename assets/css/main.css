@@ -1,0 +1,45 @@
+/*Bourbon mixins*/
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*Boxes settings*/
+html {
+  background: #000;
+  height: 100%; }
+
+body {
+  background: #000;
+  height: 100%;
+  font-size: 18px; }
+
+img {
+  display: block;
+  width: 100%; }
+
+h1 {
+  color: #fff;
+  background: transparent;
+  font-family: 'Helvetica Neue', 'Arial', 'sans serif';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  font-size: 4.768371582em;
+  line-height: 1;
+  font-weight: 100;
+  text-transform: uppercase; }
+
+header {
+  height: 650px;
+  background: #000;
+  overflow: hidden;
+  background: #1b1b1b; }
+  header canvas {
+    transform: translateY(-100%); }
+  header .header-container {
+    height: 100%;
+    position: relative; }

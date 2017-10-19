@@ -1,0 +1,19 @@
+//HEADER
+header 
+{
+	height: 650px;
+	background: $color1; 
+	overflow: hidden;
+	background: #1b1b1b;
+
+	canvas
+	{
+		transform: translateY(-100%);
+	}
+
+	.header-container
+	{
+		height: 100%;
+		position: relative;
+	}
+}

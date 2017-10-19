@@ -1,0 +1,14 @@
+h1 
+{
+	color: $color2;
+	background: transparent;
+	font-family: 'Helvetica Neue', 'Arial', 'sans serif';
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+	font-size: modular-scale(6.5);
+	line-height: 1;
+	font-weight: 100;
+	text-transform: uppercase;
+}
