@@ -9,6 +9,39 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/_prod\/Capture d’écran 2017-10-20 à 16.35.08.png": {
+		"ft": 32768,
+		"iS": 388894,
+		"oA": 0,
+		"oAP": "\/_prod\/Capture d’écran 2017-10-20 à 16.35.08.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/Capture d’écran 2017-10-20 à 16.35.23.png": {
+		"ft": 32768,
+		"iS": 249230,
+		"oA": 0,
+		"oAP": "\/_prod\/Capture d’écran 2017-10-20 à 16.35.23.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/Capture d’écran 2017-10-20 à 16.35.34.png": {
+		"ft": 32768,
+		"iS": 41830,
+		"oA": 0,
+		"oAP": "\/_prod\/Capture d’écran 2017-10-20 à 16.35.34.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_prod\/montagne.ai": {
 		"ft": 8192,
 		"oA": 2,
@@ -1275,6 +1308,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/montagne-01.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/montagne-01.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/article\/montagne.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/article\/montagne.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/article\/slider1.jpg": {
 		"ft": 16384,
 		"iS": 359948,
@@ -1541,6 +1594,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/logo-lt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/montagne-01.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/montagne-01.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

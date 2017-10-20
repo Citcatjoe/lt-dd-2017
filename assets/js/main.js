@@ -6,4 +6,8 @@ jQuery(document).ready(function($)
 	  console.log('callback - particles.js config loaded'); 
 	});
 
+	var $overlay = $('.overlay');
+
+	$overlay.fadeOut();
+
 });

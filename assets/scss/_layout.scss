@@ -2,9 +2,24 @@
 header 
 {
 	height: 650px;
-	background: $color1; 
+	//background: $color1; 
 	overflow: hidden;
 	background: #1b1b1b;
+	// background-image: url('../../img/article/montagne-01.svg');
+	// background-repeat: no-repeat;
+	// background-position: center bottom;
+	// background-size: cover;
+	position: relative;
+
+	img 
+	{
+		position: absolute;
+		bottom: 0;
+		right: -24%;
+		width: 1500px;
+		height: auto;
+		z-index: 10;
+	}
 
 	canvas
 	{
