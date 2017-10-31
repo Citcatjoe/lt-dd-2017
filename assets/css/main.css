@@ -84,9 +84,6 @@ p {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0; }
 
-br {
-  display: none; }
-
 .hero {
   height: 650px;
   overflow: hidden;
@@ -170,6 +167,8 @@ br {
   background: #fff; }
   .article-content .container {
     padding: 100px 190px 100px 190px; }
+  .article-content br {
+    display: none; }
 
 footer {
   width: 100%;
