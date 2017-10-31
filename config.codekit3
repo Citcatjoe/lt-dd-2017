@@ -9,6 +9,36 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/_prod\/57ceb693da88c10b5d6355a4455e0700.jpg": {
+		"ft": 16384,
+		"iS": 42551,
+		"oA": 0,
+		"oAP": "\/_prod\/57ceb693da88c10b5d6355a4455e0700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/6e4e5ac27c90a9bc7bc7c91d570e5c0b--minimalist-web-design-webdesign.jpg": {
+		"ft": 16384,
+		"iS": 20490,
+		"oA": 0,
+		"oAP": "\/_prod\/6e4e5ac27c90a9bc7bc7c91d570e5c0b--minimalist-web-design-webdesign.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/bwsites05.jpg": {
+		"ft": 16384,
+		"iS": 26879,
+		"oA": 0,
+		"oAP": "\/_prod\/bwsites05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_prod\/Capture d’écran 2017-10-20 à 16.35.08.png": {
 		"ft": 32768,
 		"iS": 388894,
@@ -40,6 +70,38 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/Capture d’écran 2017-10-27 à 15.58.16.png": {
+		"ft": 32768,
+		"iS": 182465,
+		"oA": 0,
+		"oAP": "\/_prod\/Capture d’écran 2017-10-27 à 15.58.16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/Capture d’écran 2017-10-27 à 16.27.23.png": {
+		"ft": 32768,
+		"iS": 180949,
+		"oA": 0,
+		"oAP": "\/_prod\/Capture d’écran 2017-10-27 à 16.27.23.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/cb46f8b6609b4f480bb4cba90ece0b48.jpg": {
+		"ft": 16384,
+		"iS": 30379,
+		"oA": 0,
+		"oAP": "\/_prod\/cb46f8b6609b4f480bb4cba90ece0b48.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_prod\/montagne.ai": {
@@ -77,6 +139,18 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/article.html 2.twig": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/article.html 2.twig",
+		"oF": 0
+		},
+	"\/article.html.twig": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/article.html.twig",
+		"oF": 0
 		},
 	"\/assets\/css\/main.css": {
 		"aP": 1,
@@ -1327,6 +1401,16 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/article\/photo-big.jpg": {
+		"ft": 16384,
+		"iS": 399473,
+		"oA": 0,
+		"oAP": "\/img\/article\/photo-big.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/article\/slider1.jpg": {
 		"ft": 16384,

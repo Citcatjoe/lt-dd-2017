@@ -8,8 +8,35 @@ h1
 	left: 0;
 	transform: translateY(-50%);
 	font-size: modular-scale(6.5);
-	line-height: 1;
-	font-weight: 100;
-	text-transform: uppercase;
+	line-height: 0.9;
+	font-weight: 500;
+	//text-transform: uppercase;
 	z-index: 11;
+}
+
+
+
+h2
+{
+	font-size: modular-scale(4);
+	color: $color2;
+	font-family: 'Helvetica Neue', 'Arial', 'sans serif';
+	margin-bottom: 15px;
+	-webkit-font-smoothing: antialiased;
+	font-weight: 600;
+}
+
+p
+{
+	color: shade($color2, 40%);
+	font-family: 'Helvetica Neue', 'Arial', 'sans serif';
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	letter-spacing: 0;
+
+}
+
+br 
+{
+	display: none;
 }
